@@ -1,0 +1,13 @@
+numero_telefono = int (3143423245)
+numero_amigo = int (3124563643)
+disponible = str (True)
+inicio_llamada = float (5.54)
+fin_llamada = float (12.5)
+duracion_llamada = (inicio_llamada + fin_llamada)
+
+print ("su numero es", numero_telefono)
+print ("el numeor de tu amigo es", numero_amigo)
+print ("tu amigo esta disponible", disponible)
+print ("realizaste tu llamada a las", inicio_llamada)
+print ("tu llamada finalizo a las ", fin_llamada)
+print ("el timpo que duro la llamada fue de", duracion_llamada)
