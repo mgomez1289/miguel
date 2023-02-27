@@ -26,7 +26,7 @@ variable4 = 1j     #complex
 variable7 = False  #bool (logico)
 variable5 = ["Cantar","Jugar", "Estudiar"] #list
 variable6 = ("Cantar","Jugar", "Estudiar") #tupla
-carro = {"color": "rojo", "velocidad": 300, "modelo": "GTRR36"} #dict
+carro = {"color": "azul", "velocidad": 300, "modelo": "GTRR36"} #dict
 #print(variable5)
 #print(variable6)
 #print(carro)

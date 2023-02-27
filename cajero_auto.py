@@ -15,4 +15,4 @@ print ("desea retirar:", retirar)
 print ("impuesto =", impuesto)
 print ("saldo restante", saldo_restante)
 
-print ("GRACIAS POR PREFERIRNOS, BANCAMIGA NO CONFÍA NI EN TU TÍA")
+print ("GRACIAS POR PREFERIRNOS, BANCAMIGA NO CONFÍA NI EN TU MADRE")
